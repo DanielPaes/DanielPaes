@@ -3,7 +3,7 @@
 - 👋 Olá! Eu sou o @DanielPaes!
 - 👀 Tenho muito interesse em ciências e tecnologias;
 - 📚 Sou um engenheiro se aventurando no mundo da computação;
-- 🌱 Atualmente estudo ciência da computação e segurança da informação;
+- 🌱 Atualmente estudo ciência da computação e segurança da informação.
   
 ## Minhas principais habilidades
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
